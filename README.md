@@ -1,0 +1,1 @@
+# Optimizing-SQL-Execution-for-Categorical-Data
